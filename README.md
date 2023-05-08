@@ -24,7 +24,7 @@ pelo próprio TSE e divulgado para auxiliar no uso dos dados. [Link do PDF](http
 Os dois arquivos csv [desc1](https://github.com/RyanQuize/Eleicoes-2022---2-Turno/blob/master/PB/desc1.csv) e [map](https://github.com/RyanQuize/Eleicoes-2022---2-Turno/blob/master/PB/map.csv) são os dois arquivos que tratamos no Jupyter Notebook(map-desc).
 E por ultimo temos a Pré Visualização do nosso Projeto Final em um arquivo png. [Pré Visualização](https://github.com/RyanQuize/Eleicoes-2022---2-Turno/blob/master/PB/Pré%20Visualização.png)
 
-<img src="https://github.com/RyanQuize/Eleicoes-2022-2-Turno/blob/master/PB/Pré%20Visualização.png?raw=true" width="500" height="300">
+<img src="https://github.com/RyanQuize/Eleicoes-2022-2-Turno/blob/master/PB/Pr%C3%A9%20Visualiza%C3%A7%C3%A3o.png?raw=true" style="display: block; margin-left: auto; margin-right: auto;">
 
 
 
